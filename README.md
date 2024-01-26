@@ -37,3 +37,22 @@ osztottak ki a Nobel-díj történelme folyamán!
 összes kiosztott orvosi Nobel-díj adatait! A fájlban szerepeljen kettősponttal elválasztva a
 kiosztás éve és a díjazott teljes neve! A sorok évszám szerint növekvő rendben legyenek az
 állományban!
+
+Git:
+    git config user.email
+    git config --global --unset user.email "XY"
+    git config user.name
+    git config --global --unset user.name "XY"
+
+.gitignore fájl létrehozása, ide: node_modules/   ( bin/)
+git init	git status –u (ellenőrizzük, hogy pl. van-e gitignore, és, hogy nincs amit a gitignore-ba tettünk)
+git add .
+git commit –m”Kezdés”
+
+git add .
+git commit –m”További commit szövegrész jön ide.”
+új repository: 3 parancsot kiadni terminálban (Total commanderből terminálban),
+git-en amit itt ír utasítást a repo létrehozása után a kész projektnél: or push an existing repository from the command fájl
+git add .
+git commit –m”Kész”
+git push
