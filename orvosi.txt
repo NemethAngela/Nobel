@@ -1,0 +1,214 @@
+1901:Dr. von Behring Emil Adolf
+1902:Dr. Ross Ronald
+1903:Dr. Finsen Niels Ryberg
+1904:Dr. Pavlov Ivan Petrovich
+1905:Dr. Koch Robert
+1906:Dr. Golgi Camillo
+1906:Dr. Ramón y Cajal Santiago
+1907:Dr. Laveran Charles Louis Alphonse
+1908:Dr. Mechnikov Ilya Ilyich
+1908:Dr. Ehrlich Paul
+1909:Dr. Kocher Emil Theodor
+1910:Dr. Kossel Albrecht
+1911:Dr. Gullstrand Allvar
+1912:Dr. Carrel Alexis
+1913:Dr. Richet Charles Robert
+1914:Dr. Bárány Robert
+1919:Dr. Bordet Jules
+1920:Dr. Krogh Schack August Steenberg
+1922:Dr. Hill Archibald Vivian
+1922:Dr. Meyerhof Otto Fritz
+1923:Dr. Banting Frederick Grant
+1923:Dr. Macleod John James Rickard
+1924:Dr. Einthoven Willem
+1926:Dr. Fibiger Johannes Andreas Grib
+1927:Dr. Wagner-Jauregg Julius
+1928:Dr. Nicolle Charles Jules Henri
+1929:Dr. Eijkman Christiaan
+1929:Dr. Hopkins Sir Frederick Gowland
+1930:Dr. Landsteiner Karl
+1931:Dr. Warburg Otto Heinrich
+1932:Dr. Sherrington Sir Charles Scott
+1932:Dr. Adrian Edgar Douglas
+1933:Dr. Morgan Thomas Hunt
+1934:Dr. Whipple George Hoyt
+1934:Dr. Minot George Richards
+1934:Dr. Murphy William Parry
+1935:Dr. Spemann Hans
+1936:Dr. Dale Sir Henry Hallett
+1936:Dr. Loewi Otto
+1937:Dr. von Szent-Györgyi Nagyrápolt Albert
+1938:Dr. Heymans Corneille Jean François
+1939:Dr. Domagk Gerhard
+1943:Dr. Dam Henrik Carl Peter
+1943:Dr. Doisy Edward Adelbert
+1944:Dr. Erlanger Joseph
+1944:Dr. Gasser Herbert Spencer
+1945:Dr. Fleming Sir Alexander
+1945:Dr. Chain Ernst Boris
+1945:Dr. Florey Sir Howard Walter
+1946:Dr. Muller Hermann Joseph
+1947:Dr. Cori Carl Ferdinand
+1947:Dr. Cori, née Radnitz Gerty Theresa
+1947:Dr. Houssay Bernardo Alberto
+1948:Dr. Müller Paul Hermann
+1949:Dr. Hess Walter Rudolf
+1949:Dr. Moniz Antonio Caetano de Abreu Freire Egas
+1950:Dr. Kendall Edward Calvin
+1950:Dr. Reichstein Tadeus
+1950:Dr. Hench Philip Showalter
+1951:Dr. Theiler Max
+1952:Dr. Waksman Selman Abraham
+1953:Dr. Krebs Hans Adolf
+1953:Dr. Lipmann Fritz Albert
+1954:Dr. Enders John Franklin
+1954:Dr. Weller Thomas Huckle
+1954:Dr. Robbins Frederick Chapman
+1955:Dr. Theorell Axel Hugo Theodor
+1956:Dr. Cournand André Frédéric
+1956:Dr. Forssmann Werner
+1956:Dr. Richards Dickinson W.
+1957:Dr. Bovet Daniel
+1958:Dr. Beadle George Wells
+1958:Dr. Tatum Edward Lawrie
+1958:Dr. Lederberg Joshua
+1959:Dr. Ochoa Severo
+1959:Dr. Kornberg Arthur
+1960:Dr. Burnet Sir Frank Macfarlane
+1960:Dr. Medawar Peter Brian
+1961:Dr. von Békésy Georg
+1962:Dr. Crick Francis Harry Compton
+1962:Dr. Watson James Dewey
+1962:Dr. Wilkins Maurice Hugh Frederick
+1963:Dr. Eccles Sir John Carew
+1963:Dr. Hodgkin Alan Lloyd
+1963:Dr. Huxley Andrew Fielding
+1964:Dr. Bloch Konrad
+1964:Dr. Lynen Feodor
+1965:Dr. Jacob François
+1965:Dr. Lwoff André
+1965:Dr. Monod Jacques
+1966:Dr. Rous Peyton
+1966:Dr. Huggins Charles Brenton
+1967:Dr. Granit Ragnar
+1967:Dr. Hartline Haldan Keffer
+1967:Dr. Wald George
+1968:Dr. Holley Robert W.
+1968:Dr. Khorana Har Gobind
+1968:Dr. Nirenberg Marshall W.
+1969:Dr. Delbrück Max
+1969:Dr. Hershey Alfred D.
+1969:Dr. Luria Salvador E.
+1970:Dr. Katz Sir Bernard
+1970:Dr. von Euler Ulf
+1970:Dr. Axelrod Julius
+1971:Dr. Sutherland, Jr. Earl W.
+1972:Dr. Edelman Gerald M.
+1972:Dr. Porter Rodney R.
+1973:Dr. von Frisch Karl
+1973:Dr. Lorenz Konrad
+1973:Dr. Tinbergen Nikolaas
+1974:Dr. Claude Albert
+1974:Dr. de Duve Christian
+1974:Dr. Palade George E.
+1975:Dr. Baltimore David
+1975:Dr. Dulbecco Renato
+1975:Dr. Temin Howard Martin
+1976:Dr. Blumberg Baruch S.
+1976:Dr. Gajdusek D. Carleton
+1977:Dr. Guillemin Roger
+1977:Dr. Schally Andrew V.
+1977:Dr. Yalow Rosalyn
+1978:Dr. Arber Werner
+1978:Dr. Nathans Daniel
+1978:Dr. Smith Hamilton O.
+1979:Dr. Cormack Allan M.
+1979:Dr. Hounsfield Godfrey N.
+1980:Dr. Benacerraf Baruj
+1980:Dr. Dausset Jean
+1980:Dr. Snell George D.
+1981:Dr. Sperry Roger W.
+1981:Dr. Hubel David H.
+1981:Dr. Wiesel Torsten N.
+1982:Dr. Bergström Sune K.
+1982:Dr. Samuelsson Bengt I.
+1982:Dr. Vane John R.
+1983:Dr. McClintock Barbara
+1984:Dr. Jerne Niels K.
+1984:Dr. Köhler Georges J.F.
+1984:Dr. Milstein César
+1985:Dr. Brown Michael S.
+1985:Dr. Goldstein Joseph L.
+1986:Dr. Cohen Stanley
+1986:Dr. Levi-Montalcini Rita
+1987:Dr. Tonegawa Susumu
+1988:Dr. Black Sir James W.
+1988:Dr. Elion Gertrude B.
+1988:Dr. Hitchings George H.
+1989:Dr. Bishop J. Michael
+1989:Dr. Varmus Harold E.
+1990:Dr. Murray Joseph E.
+1990:Dr. Thomas E. Donnall
+1991:Dr. Neher Erwin
+1991:Dr. Sakmann Bert
+1992:Dr. Fischer Edmond H.
+1992:Dr. Krebs Edwin G.
+1993:Dr. Roberts Richard J.
+1993:Dr. Sharp Phillip A.
+1994:Dr. Gilman Alfred G.
+1994:Dr. Rodbell Martin
+1995:Dr. Lewis Edward B.
+1995:Dr. Nüsslein-Volhard Christiane
+1995:Dr. Wieschaus Eric F.
+1996:Dr. Doherty Peter C.
+1996:Dr. Zinkernagel Rolf M.
+1997:Dr. Prusiner Stanley B.
+1998:Dr. Furchgott Robert F.
+1998:Dr. Ignarro Louis J.
+1998:Dr. Murad Ferid
+1999:Dr. Blobel Günter
+2000:Dr. Carlsson Arvid
+2000:Dr. Greengard Paul
+2000:Dr. Kandel Eric R.
+2001:Dr. Hartwell Leland H.
+2001:Dr. Hunt Tim
+2001:Dr. Nurse Sir Paul M.
+2002:Dr. Brenner Sydney
+2002:Dr. Horvitz H. Robert
+2002:Dr. Sulston John E.
+2003:Dr. Lauterbur Paul C.
+2003:Dr. Mansfield Sir Peter
+2004:Dr. Axel Richard
+2004:Dr. Buck Linda B.
+2005:Dr. Marshall Barry J.
+2005:Dr. Warren J. Robin
+2006:Dr. Fire Andrew Z.
+2006:Dr. Mello Craig C.
+2007:Dr. Capecchi Mario R.
+2007:Dr. Evans Sir Martin J.
+2007:Dr. Smithies Oliver
+2008:Dr. zur Hausen Harald
+2008:Dr. Barré-Sinoussi Françoise
+2008:Dr. Montagnier Luc
+2009:Dr. Blackburn Elizabeth H.
+2009:Dr. Greider Carol W.
+2009:Dr. Szostak Jack W.
+2010:Dr. Edwards Robert G.
+2011:Dr. Beutler Bruce A.
+2011:Dr. Hoffmann Jules A.
+2011:Dr. Steinman Ralph M.
+2012:Dr. Gurdon Sir John B.
+2012:Dr. Yamanaka Shinya
+2013:Dr. Rothman James E.
+2013:Dr. Schekman Randy W.
+2013:Dr. Südhof Thomas C.
+2014:Dr. O'Keefe John
+2014:Dr. Moser May-Britt
+2014:Dr. Moser Edvard I.
+2015:Dr. Campbell William C.
+2015:Dr. Ōmura Satoshi
+2015:Dr. Tu Youyou
+2016:Dr. Ohsumi Yoshinori
+2017:Dr. Hall Jeffrey C.
+2017:Dr. Rosbash Michael
+2017:Dr. Young Michael W.
