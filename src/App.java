@@ -1,3 +1,12 @@
+/*
+* File: App.java
+* Author: Németh Angéla
+* Copyright: 2024, Németh Angéla
+* Group: Szoft II-1-E
+* Date: 2024-01-26
+* Github: https://github.com/NemethAngela/Paclient
+*/
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
